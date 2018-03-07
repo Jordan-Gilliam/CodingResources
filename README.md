@@ -2,6 +2,7 @@
 ### A compilation of resources for programmers of all levels
 
 ### Bookmarks Bar
+#### These bookmarks are organized in folders and subfolders. To add them to your browser, simply download the html file and import. 
 
 ### jobs
 
